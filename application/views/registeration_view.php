@@ -12,7 +12,7 @@
 					<tr><td>Email</td><td><input type="email" name="email" class="form-control" required/></td></tr>
 					<tr><td>Password</td><td><input type="password" name="password" class="form-control" required/></td></tr>
 					<tr><td>Mobile</td><td><input type="text" name="mobile" class="form-control" required/></td></tr>
-					<tr  align='center'><td colspan="2"><input type="submit" name="register" value="Register" class="btn btn-success btn-block marginbt20"/></td></tr>
+					<tr  align='center'><td colspan="2"><input type="submit" name="submit" value="Register" class="btn btn-success btn-block marginbt20"/></td></tr>
 				</table>
 			</div>	
 			</form>
