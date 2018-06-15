@@ -52,7 +52,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 //$route['default_controller'] = 'registeration';
 
 //$route['(:any)'] = 'pages/view/$1';
-$route['news/create'] = 'news/create';
+$route['news/create'] = 'news/create';    //to access create controller means news class and create method
 $route['news/(:any)'] = 'news/view/$1';
 $route['news'] = 'news';
 $route['(:any)'] = 'pages/bodymatter/$1';
